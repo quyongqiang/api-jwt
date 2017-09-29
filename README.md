@@ -44,3 +44,5 @@ curl -X GET  -H "Authorization:Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJle
 - https://github.com/progrium/ruby-jwt
 - https://github.com/plataformatec/devise/wiki/How-To:-Simple-Token-Authentication-Example
 - https://jwt.io/
+- https://www.pluralsight.com/guides/ruby-ruby-on-rails/token-based-authentication-with-ruby-on-rails-5-api
+- https://github.com/netqyq/rails-jwt-auth-tutorial
